@@ -13,6 +13,7 @@ pkg install nodejs -y
 pkg install tesseract -y
 wget -O ~/../usr/share/tessdata/ind.traineddata "https://github.com/tesseract-ocr/tessdata/blob/master/ind.traineddata?raw=true"
 npm install -g npm@8.0.0
+npm i -g terminal-kit
 npm i -g pm2
 echo "Todas las dependencias han sido instaladas"
 #!/usr/bin/bash
