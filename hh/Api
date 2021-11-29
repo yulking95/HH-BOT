@@ -1,6 +1,0 @@
-{
-"name" : "HH-BOT",
-"description" : "WhatsApp bot hecho con nodejs/Heroku",
-"repository" : "https://github.com/yulking95/HH-BOT/tree/master/hh",
-"keywords" : "Nodejs", "Bot", "WhatsApp", "Hatori"
-}
