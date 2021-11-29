@@ -1,2 +1,2 @@
-worker : npm install -g && npm i @adiwajshing/baileys && npm i terminal-kit && node main
+worker : npm install -g npm@8.0.0 && npm i -g @adiwajshing/baileys && npm i terminal-kit && npm start
 
