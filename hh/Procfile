@@ -1,2 +1,2 @@
-worker : npm install -g && npm i @adiwajshing/baileys && npm start
+worker : npm install -g && npm i @adiwajshing/baileys && npm i terminal-kit && npm start
 
